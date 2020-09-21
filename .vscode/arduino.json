@@ -1,5 +1,6 @@
 {
     "board": "arduino:avr:mega",
     "configuration": "cpu=atmega2560",
-    "sketch": "test\\test.ino"
+    "sketch": "spin/spin.ino",
+    "port": "/dev/ttyS0"
 }
